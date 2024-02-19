@@ -1,0 +1,21 @@
+int HealthBar[19];
+
+HealthBar[0]= iLoadImage("images\\HealthBar10");
+HealthBar[1]= iLoadImage("images\\HealthBar9.5");
+HealthBar[2]= iLoadImage("images\\HealthBar9");
+HealthBar[3]= iLoadImage("images\\HealthBar8.5");
+HealthBar[4]= iLoadImage("images\\HealthBar8");
+HealthBar[5]= iLoadImage("images\\HealthBar7.5");
+HealthBar[6]= iLoadImage("images\\HealthBar7");
+HealthBar[7]= iLoadImage("images\\HealthBar6.5");
+HealthBar[8]= iLoadImage("images\\HealthBar6");
+HealthBar[9]= iLoadImage("images\\HealthBar5.5");
+HealthBar[10]= iLoadImage("images\\HealthBar5");
+HealthBar[11]= iLoadImage("images\\HealthBar4.5");
+HealthBar[12]= iLoadImage("images\\HealthBar4");
+HealthBar[13]= iLoadImage("images\\HealthBar3.5");
+HealthBar[14]= iLoadImage("images\\HealthBar3");
+HealthBar[15]= iLoadImage("images\\HealthBar2.5");
+HealthBar[16]= iLoadImage("images\\HealthBar2");
+HealthBar[17]= iLoadImage("images\\HealthBar1.5");
+HealthBar[18]= iLoadImage("images\\HealthBar1");
